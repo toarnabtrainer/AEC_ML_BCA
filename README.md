@@ -25,17 +25,17 @@ https://www.onlinegdb.com/
 Print the following pattern for user given value for n.<br>
 for n = 11<br>
 <pre>
-***********<br>
-.*********<br>
-..*******<br>
-...*****<br>
-....***<br>
-.....*<br>
-....***<br>
-...*****<br>
-..*******<br>
-.*********<br>
-***********<br>
+***********
+.*********
+..*******
+...*****
+....***
+.....*
+....***
+...*****
+..*******
+.*********
+***********
 </pre>
 **Programming Assignment - 2 (15 Minutes)**<br>
 Find the second maximum number out of three user given numbers.
