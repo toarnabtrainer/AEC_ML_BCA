@@ -23,7 +23,7 @@ https://www.onlinegdb.com/
 
 **Programming Assignment - 1 (15 Minutes)**<br>
 Print the following pattern for user given value for n.<br>
-for n = 11<br>
+For n = 11<br>
 <pre>
 ***********
 .*********
