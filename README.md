@@ -17,8 +17,6 @@ https://www.onlinegdb.com/
 **Learn Python Programming (programmiz.com):** https://www.programiz.com/python-programming<br>
 **Learn Python Programming (data-flair):** https://data-flair.training/blogs/python-tutorial/
 
-## Question Paper (Total Duration - 60 Minutes)<br>
-**Python MCQ Test Link (1) (10 Minutes)** - https://bit.ly/3l5JkFk <br>
-**Python MCQ Test Link (2) (10 Minutes)** - https://bit.ly/3aHFQXb
+
 
 
