@@ -18,5 +18,34 @@ https://www.onlinegdb.com/
 **Learn Python Programming (data-flair):** https://data-flair.training/blogs/python-tutorial/
 
 
+## Question Paper (Total Duration - 60 Minutes)<br>
+**Python MCQ Test Link (1) (10 Minutes)** - https://bit.ly/3l5JkFk <br>
+**Python MCQ Test Link (2) (10 Minutes)** - https://bit.ly/3aHFQXb
+
+**Programming Assignment - 1 (15 Minutes)**<br>
+Print the following pattern for user given ODD value for n.<br>
+For n = 11<br>
+<pre>
+***********
+.*********
+..*******
+...*****
+....***
+.....*
+....***
+...*****
+..*******
+.*********
+***********
+</pre>
+**Programming Assignment - 2 (10 Minutes)**<br>
+Find the second maximum number out of three user given numbers.
+
+**Programming Assignment - 3 (15 Minutes)**<br>
+Find all possible three digit Triode Numbers.<br>
+Let x be a Triode Number. Then x, 2*x and 3 *x will have all distinct digits.<br>
+As example, x = 219, 2*x = 438 and 3*x = 657<br>
+As example, x = 192, 2*x = 384 and 3*x = 576
+
 
 
